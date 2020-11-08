@@ -125,7 +125,7 @@ public class Simulation {
                 shiftGHR('0');
             }
         }
-        // Case 4: Strognly taken
+        // Case 4: Strongly taken
         else{
             if (action == 't'){
                 shiftGHR('1');
