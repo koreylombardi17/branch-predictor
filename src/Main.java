@@ -12,8 +12,8 @@ public class Main {
         long startTime = System.currentTimeMillis();
 
         // Get arguments from command line
-        int m = Integer.parseInt(args[0]);  // m = The number of PC bits used to index the gshare table.
-        int n = Integer.parseInt(args[1]);  // n = The global history register bits used to index the gshare table.
+        int m = Integer.parseInt(args[0]);  // m = The number of PC bits used to index the gshare table
+        int n = Integer.parseInt(args[1]);  // n = The number of global history register bits
         String file = args[2];
 
         // ArrayList used to store each command
