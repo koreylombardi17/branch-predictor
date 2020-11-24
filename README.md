@@ -3,7 +3,7 @@ How to compile and run application on a Windows or Linux Machine from the comman
 1. Navigate inside the source-code directory. Make sure the trace files are placed in the same directory.  
 
 2. To compile use the command:<br />
-`javac *java`
+`javac Main.java`
 
 3. To run use the command:<br />
 `java Main <M> <N> <TRACE_FILE>`
@@ -13,5 +13,5 @@ How to compile and run application on a Windows or Linux Machine from the comman
 `Replace <TRACE_FILE> with gobmk_trace.txt or mcf_trace.txt.`<br />
 
 Example:<br /> 
-`javac *java`<br />
+`javac Main.java`<br />
 `java Main 10 4 gobmk_trace.txt`
