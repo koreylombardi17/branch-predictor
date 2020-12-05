@@ -1,3 +1,5 @@
+## GShare Branch Predictor
+
 How to compile and run application on a Windows or Linux Machine from the command line using trace files:<br />
 
 1. Navigate inside the source-code directory. Make sure the trace files are placed in the same directory.  
